@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram name="Page-1" id="ky9Qh9SrCAVCniI_nLZy">
+    <mxGraphModel dx="889" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-2" value="New" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="85" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-3" value="Unsaved Changes" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="354" y="85" width="116" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-4" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="550" y="90" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-5" value="Created" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VLy9x3jQh4VgivJ9PlPi-1" target="VLy9x3jQh4VgivJ9PlPi-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="104.5" as="sourcePoint" />
+            <mxPoint x="190" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-8" value="Details added" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;" edge="1" parent="1">
+          <mxGeometry x="0.1429" y="5" relative="1" as="geometry">
+            <mxPoint x="270" y="105" as="sourcePoint" />
+            <mxPoint x="350" y="105" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-9" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="VLy9x3jQh4VgivJ9PlPi-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-10" value="Canceled" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;" edge="1" parent="1">
+          <mxGeometry x="0.1429" y="5" relative="1" as="geometry">
+            <mxPoint x="480" y="105" as="sourcePoint" />
+            <mxPoint x="550" y="104.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-11" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="VLy9x3jQh4VgivJ9PlPi-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-12" value="User presseed Save" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;exitX=0.383;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VLy9x3jQh4VgivJ9PlPi-3">
+          <mxGeometry x="0.2634" y="-30" relative="1" as="geometry">
+            <mxPoint x="390" y="180.5" as="sourcePoint" />
+            <mxPoint x="400" y="180" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-13" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="VLy9x3jQh4VgivJ9PlPi-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-14" value="Persisted &amp;amp; Uploaded" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-15" value="Save &amp;amp; Upload Pending" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-16" value="Save &amp;amp; Upload&amp;nbsp;" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;exitX=0.383;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.1111" y="50" relative="1" as="geometry">
+            <mxPoint x="400" y="220" as="sourcePoint" />
+            <mxPoint x="400" y="274" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-17" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="VLy9x3jQh4VgivJ9PlPi-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-18" value="Save &amp;amp; Upload Failed" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;entryX=0.867;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.875;exitY=-0.084;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VLy9x3jQh4VgivJ9PlPi-15" target="VLy9x3jQh4VgivJ9PlPi-3">
+          <mxGeometry x="-0.3139" y="-55" relative="1" as="geometry">
+            <mxPoint x="460" y="170" as="sourcePoint" />
+            <mxPoint x="560" y="114.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-19" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="VLy9x3jQh4VgivJ9PlPi-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-20" value="Persisted" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="590" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-21" value="Save success&lt;div&gt;&amp;nbsp;&amp;amp; Upload Failed&lt;/div&gt;" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="VLy9x3jQh4VgivJ9PlPi-15" target="VLy9x3jQh4VgivJ9PlPi-20">
+          <mxGeometry x="0.1667" y="10" relative="1" as="geometry">
+            <mxPoint x="564.5" y="226" as="sourcePoint" />
+            <mxPoint x="564.5" y="280" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-22" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="VLy9x3jQh4VgivJ9PlPi-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-26" value="Retry upload success" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="VLy9x3jQh4VgivJ9PlPi-14">
+          <mxGeometry x="-0.2308" y="-10" relative="1" as="geometry">
+            <mxPoint x="600" y="290" as="sourcePoint" />
+            <mxPoint x="410" y="284" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-27" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="VLy9x3jQh4VgivJ9PlPi-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-28" value="" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;exitX=0.583;exitY=1.066;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VLy9x3jQh4VgivJ9PlPi-20" target="VLy9x3jQh4VgivJ9PlPi-23">
+          <mxGeometry x="0.4982" y="15" relative="1" as="geometry">
+            <mxPoint x="590" y="223" as="sourcePoint" />
+            <mxPoint x="580" y="370" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-29" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="VLy9x3jQh4VgivJ9PlPi-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-23" value="Upload Pending" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-30" value="" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="VLy9x3jQh4VgivJ9PlPi-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="104.5" as="sourcePoint" />
+            <mxPoint x="210" y="105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-31" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="VLy9x3jQh4VgivJ9PlPi-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-1" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="90" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-34" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="395" y="380" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-37" value="Upload success&amp;nbsp;" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VLy9x3jQh4VgivJ9PlPi-14" target="VLy9x3jQh4VgivJ9PlPi-34">
+          <mxGeometry x="-0.2308" y="-10" relative="1" as="geometry">
+            <mxPoint x="610" y="300" as="sourcePoint" />
+            <mxPoint x="480" y="300" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLy9x3jQh4VgivJ9PlPi-38" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="VLy9x3jQh4VgivJ9PlPi-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
